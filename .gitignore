@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (too large for GitHub)
+data/
+*.zip
+*.duckdb
+*.duckdb.wal
+
+# Secrets
+.env
+
+# OS files
+.DS_Store
+
